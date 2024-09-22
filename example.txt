@@ -1,0 +1,4 @@
+Hi, my name is Riya.
+This is Week 3 Lab for our course MS Powershell Scripting.
+This is the initial content for our Week 3 Lab.
+We will be amending on this text File for the Week 3 Lab.
